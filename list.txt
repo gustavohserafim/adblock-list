@@ -1,5 +1,10 @@
-https://pagead2.googlesyndication.com
-https://ads.google.com
-https://adservice.google.com
-https://pagead2.googleadservices.com
-https://googleadservices.com
+pagead2.googlesyndication.com
+ads.google.com
+adservice.google.com
+pagead2.googleadservices.com
+googleadservices.com
+doubleclick.net
+ad.doubleclick.net
+static.doubleclick.net
+m.doubleclick.net
+mediavisor.doubleclick.net
